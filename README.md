@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html lang="en">
 <head>
   <meta charset="UTF-8">
@@ -11,7 +10,7 @@
   <!-- Header / Hero -->
   <header class="bg-gradient-to-r from-blue-900 to-teal-500 p-6">
     <div class="max-w-6xl mx-auto flex flex-col md:flex-row items-center justify-between">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/6/6b/Bitmap_VS_SVG.svg" alt="PrimeGrade Maths Logo" class="h-16 mb-4 md:mb-0">
+      <img src="PrimeGrade Maths Logo Design.png" alt="PrimeGrade Maths Logo" class="h-16 mb-4 md:mb-0">
       <h1 class="text-white text-3xl font-bold">PrimeGrade Maths</h1>
     </div>
   </header>
